@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <footer class="container">
-            <strong>&copy; 2024 - Sinh viên thực hiện: 2321160029 - Trần Nguyễn Tiên Thy </strong>
+            <strong>&copy; 2024 - Sinh viên thực hiện: 2321160073 - Pham Thanh Dat </strong>
         </footer>
 
         <!-- Optional JavaScript -->
