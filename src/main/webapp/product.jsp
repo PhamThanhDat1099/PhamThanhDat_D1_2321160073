@@ -15,7 +15,7 @@
 <jsp:include page="shared/nav.jsp" />
 <section class="bg-body-secondary text-center">
     <div class="container">
-        <h1 class="jumbotron-heading text-muted">SIÊU THỊ GIÀY TYTY</h1>
+        <h1 class="jumbotron-heading text-muted">SIÊU THỊ GIÀY</h1>
         <p class="lead text-muted mb-0">CHUYÊN CUNG CẤP GIÀY THỂ THAO SỐ 1 TẠI VIỆT NAM</p>
     </div>
 </section>
